@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/499031/cf8c87373d77484b98e26cde9d55a9eb
+bundleId: https://api.rpubs.com/api/v1/document/499031/cf8c87373d77484b98e26cde9d55a9eb
+url: http://rpubs.com/EnJunz/499031
+when: 1558875545.78111
